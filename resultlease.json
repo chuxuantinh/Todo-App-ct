@@ -1,0 +1,108 @@
+{
+    "items": [
+      {
+        "objecttype": "Lease Agreement",
+        "objectid": 301,
+        "label": "LAR Workflow",
+        "description": "LAR REST WS",
+        "beneficiary": "Saudi Electricity Company",
+        "intendeduse": "Installation Unit SS  to supply Fahad Eid Al-Qahtani at Mahallat Al-Hijaz B1 Blk 42 LOT 52 & 53.",
+        "feature_center": "POINT (5518045.99986629 3143243.33141867)",
+        "lonlat": "POINT (27.161245 49.550012)",
+        "created": "2019-07-21T06:10:19Z",
+        "lastactiontimestamp": "2019-07-20T21:00:00Z",
+        "properties": [
+          {
+            "attr": "id1",
+            "value": "14118",
+            "iseditable": "true"
+          },
+          {
+            "attr": "larnumb",
+            "value": "8113",
+            "iseditable": "true"
+          },
+          {
+            "attr": "beneficiary",
+            "value": "Saudi Electricity Company",
+            "iseditable": "true"
+          },
+          {
+            "attr": "fea_status",
+            "value": "INPROGRESS",
+            "iseditable": "true"
+          },
+          {
+            "attr": "req_date",
+            "value": "25-APR-19",
+            "iseditable": "true"
+          },
+          {
+            "attr": "req_dept",
+            "value": "PROJECTS",
+            "iseditable": "true"
+          },
+          {
+            "attr": "type_lar",
+            "value": "ELECTRICAL",
+            "iseditable": "true"
+          },
+          {
+            "attr": "lar_sub_type",
+            "value": "ELECTRIC SERVICES",
+            "iseditable": "true"
+          },
+          {
+            "attr": "agreement_contractno",
+            "value": null,
+            "iseditable": "true"
+          },
+          {
+            "attr": "temporaryexpirydate",
+            "value": null,
+            "iseditable": "true"
+          },
+          {
+            "attr": "req_name",
+            "value": "Yousef Ahmed Batouk",
+            "iseditable": "true"
+          }
+        ],
+        "actions": [
+          {
+            "st_display_status": "Review In-Complete",
+            "st_status": "REVIEW_INCOMPLETE"
+          },
+          {
+            "st_display_status": "InProgress",
+            "st_status": "INPROGRESS"
+          },
+          {
+            "st_display_status": "Review Completed",
+            "st_status": "REVIEW_COMPLETED"
+          }
+        ],
+        "larnumb": "Lease Land No 301",
+        "wf_userid": "RCJNT2\\shehriw",
+        "laststatus": "INPROGRESS"
+      }
+    ],
+    "hasMore": false,
+    "limit": 25,
+    "offset": 0,
+    "count": 1,
+    "links": [
+      {
+        "rel": "self",
+        "href": "http://10.10.40.233:8080/ords/esdimmdm/m4/json_lar_actions?key=aisC2018&endpoint=workflows&objectid=NONE&wf_userid=RCJNT2%5Cshehriw"
+      },
+      {
+        "rel": "describedby",
+        "href": "http://10.10.40.233:8080/ords/esdimmdm/metadata-catalog/m4/item"
+      },
+      {
+        "rel": "first",
+        "href": "http://10.10.40.233:8080/ords/esdimmdm/m4/json_lar_actions?key=aisC2018&endpoint=workflows&objectid=NONE&wf_userid=RCJNT2%5Cshehriw"
+      }
+    ]
+  }
